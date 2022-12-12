@@ -2,6 +2,9 @@
   "notebooks": {
     "python-sklearn-linear-regression.ipynb": {
       "slug": "d6494e431b85447f8d02274b49a9c4c5"
+    },
+    "python-sklearn-logistic-regression.ipynb": {
+      "slug": "edf50902e99647ec92ceea5bcda47801"
     }
   }
 }
