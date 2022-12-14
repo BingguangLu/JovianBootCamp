@@ -5,6 +5,9 @@
     },
     "python-sklearn-logistic-regression.ipynb": {
       "slug": "edf50902e99647ec92ceea5bcda47801"
+    },
+    "sklearn-decision-trees-random-forests.ipynb": {
+      "slug": "ba2fe77931d1420fa2d3666dfc0cfe26"
     }
   }
 }
