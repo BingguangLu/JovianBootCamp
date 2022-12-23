@@ -8,6 +8,9 @@
     },
     "sklearn-decision-trees-random-forests.ipynb": {
       "slug": "ba2fe77931d1420fa2d3666dfc0cfe26"
+    },
+    "python-gradient-boosting-machines.ipynb": {
+      "slug": "58429a76c386419ba79dc57da9fde106"
     }
   }
 }
